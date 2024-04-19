@@ -1,2 +1,2 @@
-- https://github.com/BrianBurwick/Midterm-2-Non-Responsive
+- https://brianburwick.github.io/Midterm-2-Non-Responsive/
 - https://brianburwick.github.io/Midterm-2-Responsive/
